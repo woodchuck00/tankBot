@@ -1,0 +1,7 @@
+{
+	"SLACK_CONFIG" : {
+	    "api": "",
+	    "channel": "",
+	    "clientId": ""
+	}
+}
